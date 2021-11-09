@@ -313,10 +313,6 @@ img.large {
   margin-bottom: 0.5rem;
 }
 
-.card-body > * {
-  margin-bottom: 0.5rem;
-}
-
 .payment {
   display: flex;
   justify-content: center;
@@ -362,7 +358,7 @@ h1.cart-title-shopping {
 }
 
 .rating span:last-child {
-  color: #ffffff;
+  color: black;
 }
 
 /* Alert */
