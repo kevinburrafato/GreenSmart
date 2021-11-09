@@ -1,4 +1,5 @@
 # GreenSmart ECommerce Website
+A Full Ecommerce built with React - Redux - Node.js - Express - MongoDB.
 
 ## Demo Website
 
